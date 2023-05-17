@@ -1,9 +1,9 @@
 # Hi 👋, I'm Mahmoud Khalil
-## I'm an Egyptian Data Analyst who is curious about data ana new technologies.
-## I'm currently working as a Network Engineer @AluNile, and as a Freelancer Data Analyst
+
 
 <!--
-
+## I'm an Egyptian Data Analyst who is curious about data ana new technologies.
+## I'm currently working as a Network Engineer @AluNile, and as a Freelancer Data Analyst
 
 Here are some ideas to get you started:
 
